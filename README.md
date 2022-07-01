@@ -1,0 +1,2 @@
+# nishika
+Nshikaコンペティション用リポジトリ
